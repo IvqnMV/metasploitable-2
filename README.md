@@ -5,11 +5,11 @@ A test environment provides a secure place to perform penetration testing and se
 ### Metasploitable is an intentionally vulnerable Linux virtual machine. 
 This VM can be used to conduct security training, test security tools, and practice common penetration testing techniques.
 
-####The default login and password is msfadmin:msfadmin.
+#### The default login and password is msfadmin:msfadmin.
 
 Never expose this VM to an untrusted network (use NAT or Host-only mode if you have any questions what that means).
 
-###Identifying Metasploitable 2’s IP Address
+### Identifying Metasploitable 2’s IP Address
 
 After you log in to Metasploitable 2, you can identify the IP address that has been assigned to the virtual machine. Just enter ifconfig at the prompt to see the details for the virtual machine.
 
