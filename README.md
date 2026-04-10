@@ -16,5 +16,3 @@ After you log in to Metasploitable 2, you can identify the IP address that has b
 msfadmin@metasploitable:~$ ifconfig
 
 The command will return the configuration for eth0. You’ll need to take note of the inet address. This will be the address you’ll use for testing purposes.
-
-### for more information: https://docs.rapid7.com/metasploit/metasploitable-2-exploitability-guide/
